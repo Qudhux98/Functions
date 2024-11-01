@@ -22,3 +22,7 @@
     ✅ Multiplication program (_using recursion_): This program run any multiplication from 1 to 12 for any given number
     ✅ Binary Converter (_using recursion_): This app converts any number to base 2 or binary
 7.  As regards the last program (Binary converter), even tho there is shoeter and better way to do it (i.e just running "_toString_" method on the given number) right, i decided to test my reasoning ability by using recursion.
+8.  Continuing from where we left off.............................
+9.  There are these powerful array methods that can be undermine when working on a large project
+10. These methods are shift, unshift, pop and push
+11. In this update, I used the method shift, unshift, pop and push to rotate an array rightward and leftward.
